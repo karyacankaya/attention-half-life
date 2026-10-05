@@ -1,0 +1,16 @@
+event_id,title,project,event_date,category,source,baseline,peak_date,peak_views,peak_excess,rise_days,half_life,censored,secondary_peaks,status,exp_tau,exp_aic,pow_c,pow_alpha,pow_aic,best_fit
+kahramanmaras_earthquakes_2023,2023 Kahramanmaraş depremleri,tr.wikipedia,2023-02-06,disaster,manual,1,,,0,,,False,0,no_peak,,,,,,
+tr_presidential_election_2023,2023 Türkiye cumhurbaşkanlığı seçimi,tr.wikipedia,2023-05-14,election,manual,8225,2023-05-14,8.523e+04,4.948e+04,0,2,False,0,ok,2.208,-2486,43.03,20,-2478,exponential
+ferdi_tayfur_death,Ferdi Tayfur,tr.wikipedia,2025-01-02,death,manual,998,2025-01-03,1.924e+05,1.963e+05,1,3,False,0,ok,3.179,-3040,61.45,20,-3013,exponential
+kobe_bryant_death,Kobe Bryant,tr.wikipedia,2020-01-26,death,manual,29,2020-01-27,9.764e+04,8.776e+04,1,1,False,0,ok,1.196,-3586,23.11,20,-3583,exponential
+queen_elizabeth_death,II. Elizabeth,tr.wikipedia,2022-09-08,death,manual,1102,2022-09-09,1.459e+05,1.334e+05,1,2,False,0,ok,2.638,-3021,2.588,1.604,-3528,power_law
+arda_guler_euro2024,Arda Güler,tr.wikipedia,2024-06-18,sports,manual,1964,2024-06-19,3.051e+04,2.248e+04,1,2,False,1,ok,7.106,-1951,3.22,1.175,-2047,power_law
+messi_world_cup_final,Lionel Messi,tr.wikipedia,2022-12-18,sports,manual,4338,2022-12-19,3.572e+04,3.553e+04,1,1,False,0,ok,1.234,-3639,23.75,20,-3639,exponential
+yusuf_dikec_olympics,Yusuf Dikeç,tr.wikipedia,2024-07-30,person_in_news,manual,11,2024-08-02,4.114e+04,5.604e+04,3,1,False,0,ok,2.185,-2948,1.382,1.236,-3523,power_law
+hagia_sophia_conversion,Ayasofya,tr.wikipedia,2020-07-10,other,manual,2719,2020-07-11,1.42e+05,1.322e+05,1,2,False,1,ok,1.923,-2110,1.192,1.051,-2180,power_law
+ever_given_suez,Ever Given,tr.wikipedia,2021-03-23,accident,manual,1,2021-03-28,2767,2625,5,3,False,0,ok,4.249,-2694,6.817,2.184,-2775,power_law
+titan_submersible,Titan submersible implosion,en.wikipedia,2023-06-18,accident,manual,1,2023-06-23,60,79,5,,True,0,censored,1e+04,3578,1e+04,0.01,3580,exponential
+notre_dame_fire,Notre-Dame de Paris fire,en.wikipedia,2019-04-15,disaster,manual,1,2019-04-15,2.95e+05,3.229e+05,0,3,False,0,ok,2.383,-3306,46.06,20,-3278,exponential
+apple_vision_pro,Apple Vision Pro,en.wikipedia,2023-06-05,technology,manual,1,2023-06-05,1.046e+04,1.493e+04,0,3,False,1,ok,5.073,-1396,0.1442,0.3623,-1481,power_law
+crowdstrike_outage,CrowdStrike,en.wikipedia,2024-07-19,technology,manual,785.5,2024-07-20,2.645e+05,4.185e+05,1,1,False,0,ok,1.083,-3759,1.454,2.03,-4902,power_law
+oppenheimer_release,Oppenheimer (film),en.wikipedia,2023-07-21,entertainment,manual,6.995e+04,2023-07-22,1.353e+06,1.24e+06,1,5,False,1,ok,8.952,-2656,21.78,3.135,-2739,power_law

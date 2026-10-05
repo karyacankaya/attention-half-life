@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+venv/
+.venv/
+
+# Local API cache (rebuilt by running the scripts)
+data/cache/*
+!data/cache/.gitkeep
+
+# OS / editor
+.DS_Store
+.vscode/

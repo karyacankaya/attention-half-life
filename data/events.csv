@@ -1,0 +1,16 @@
+event_id,title,project,event_date,category,source
+kahramanmaras_earthquakes_2023,2023 Kahramanmaraş depremleri,tr.wikipedia,2023-02-06,disaster,manual
+tr_presidential_election_2023,2023 Türkiye cumhurbaşkanlığı seçimi,tr.wikipedia,2023-05-14,election,manual
+ferdi_tayfur_death,Ferdi Tayfur,tr.wikipedia,2025-01-02,death,manual
+kobe_bryant_death,Kobe Bryant,tr.wikipedia,2020-01-26,death,manual
+queen_elizabeth_death,II. Elizabeth,tr.wikipedia,2022-09-08,death,manual
+arda_guler_euro2024,Arda Güler,tr.wikipedia,2024-06-18,sports,manual
+messi_world_cup_final,Lionel Messi,tr.wikipedia,2022-12-18,sports,manual
+yusuf_dikec_olympics,Yusuf Dikeç,tr.wikipedia,2024-07-30,person_in_news,manual
+hagia_sophia_conversion,Ayasofya,tr.wikipedia,2020-07-10,other,manual
+ever_given_suez,Ever Given,tr.wikipedia,2021-03-23,accident,manual
+titan_submersible,Titan submersible implosion,en.wikipedia,2023-06-18,accident,manual
+notre_dame_fire,Notre-Dame de Paris fire,en.wikipedia,2019-04-15,disaster,manual
+apple_vision_pro,Apple Vision Pro,en.wikipedia,2023-06-05,technology,manual
+crowdstrike_outage,CrowdStrike,en.wikipedia,2024-07-19,technology,manual
+oppenheimer_release,Oppenheimer (film),en.wikipedia,2023-07-21,entertainment,manual
